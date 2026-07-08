@@ -4,7 +4,7 @@
 
 function calculateFormula($x, $y)
 {
-    if (($x + $y == 0) {
+    if (($x + $y) == 0) {
         return "Não é possivel realizar a divisão por zero.";
     }
 
